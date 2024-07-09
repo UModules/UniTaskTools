@@ -1,0 +1,14 @@
+{
+  "name": "com.ahengine.unitasktools",
+  "version": "1.0.0",
+  "displayName": "UniTask Tools",
+  "description": "UniTaskTools",
+  "unity": "2022.3",
+  "unityRelease": "0f1",
+  "author": {
+    "name": "Usef Farahmand"
+  },
+  "dependencies": {
+    "com.cysharp.unitask": "2.5.5"
+  }
+}
